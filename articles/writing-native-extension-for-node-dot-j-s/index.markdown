@@ -1,6 +1,6 @@
 {
     "title": "Writing Native Extension for Node.js",
-    "author": "frends",
+    "author": "Rhio Kim",
     "date": "2012-05-14T07:46:29.824Z",
     "categories": [
         "node.js"

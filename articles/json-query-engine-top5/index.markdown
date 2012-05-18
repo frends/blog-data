@@ -1,6 +1,6 @@
 {
     "title": "JSON Query Engine Top5",
-    "author": "frends",
+    "author": "Rhio Kim",
     "date": "2012-05-14T07:12:15.708Z",
     "categories": [
         "JavaScript"
