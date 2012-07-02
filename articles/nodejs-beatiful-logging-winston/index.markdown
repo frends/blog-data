@@ -3,7 +3,7 @@
     "author": "nanhapark",
     "date": "2012-06-30T15:13:37.509Z",
     "categories": [
-        "html5"
+        "node.js"
     ],
     "tags": [],
     "acceptComment": true,
