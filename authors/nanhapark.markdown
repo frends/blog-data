@@ -7,7 +7,7 @@
     "youtube": "",
     "facebook": "ShareITTech",
     "linkedin": "",
-    "email": "nanhapark@gmail.com"
+    "email": "nanhap@gmail.com"
 }
 
 :) Javascript(Node.JS), python, bash, php
