@@ -1,5 +1,5 @@
 {
-    "title": "Domain module 소개"
+    "title": "Domain module 소개",
     "author": "nanhapark",
     "date": "2012-07-15T15:13:37.509Z",
     "categories": [
@@ -13,8 +13,6 @@
     "important": false,
     "advanced": {}
 }
-
-# Domain module 소개
 
 > Domains provide a way to handle multiple different IO operations as a single group. If any of the event emitters or callbacks registered to a domain emit an error event, or throw an error, then the domain object will be notified, rather than losing the context of the error in the process.on('uncaughtException') handler, or causing the program to exit with an error code.
 
